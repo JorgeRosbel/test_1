@@ -45,7 +45,6 @@ export const Table:React.FC = () => {
 
     const handleReset = () => {
         setTempData(originalData); 
-        setInputValue("")
     }
 
 
