@@ -1,0 +1,13 @@
+.table-color tbody tr:nth-child(odd){
+    background-color: #333;
+}
+
+.table-color  tbody tr:nth-child(even){
+    background-color: #797878;
+}
+
+table{
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
